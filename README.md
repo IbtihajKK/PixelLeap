@@ -29,3 +29,5 @@ Language: C#
 
 Platform: Android
 
+You can install on Android using PixelLeap.apk
+
